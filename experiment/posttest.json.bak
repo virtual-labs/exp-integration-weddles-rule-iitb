@@ -1,0 +1,25 @@
+
+[
+    {
+        "question": "Given that: $$ I = \\int_1^2 \\int_0^1 e^{(x+y)} \\times dx \\times dy $$. Find the value of Integration of Y with Double Integration Trapazoidal Rule.",
+        "qid": 1,
+        "option_a": "8.717",
+        "option_b": "8.154",
+        "option_c": "8.362",
+        "option_d": "8.601",
+        "correct_option": "c"
+    },
+    {
+        "question": "Given that: $$ I = \\int_1^2 \\int_0^1 e^{(x+y)} \\times dx \\times dy $$. x1 = 0, x2 = 1, y1 = 1, y2 = 2, number of divisions in x direction is n = 2 and number of divisions in y direction is m = 2. Find the value of h<sub>x</sub> and h<sub>y</sub> used Double Integration Trapazoidal Rule.",
+        "qid": 2,
+        "option_a": "h<sub>x</sub> = 0.1 and h<sub>y</sub> = 0.5",
+        "option_b": "h<sub>x</sub> = 0.5 and h<sub>y</sub> = 0.1",
+        "option_c": "h<sub>x</sub> = 0.2 and h<sub>y</sub> = 0.1",
+        "option_d": "h<sub>x</sub> = 0.5 and h<sub>y</sub> = 0.5",
+        "correct_option": "d"
+    }
+   
+]
+
+
+

@@ -1,0 +1,21 @@
+[
+    {
+        "question": "The order of accuracy by Weddle's rule is?",
+        "qid": 1,
+        "option_a": "6th Order",
+        "option_b": "5th Order",
+        "option_c": "4th Order",
+        "option_d": "7th Order",
+        "correct_option": "b"
+    },
+    {
+        "question": "The integration by Weddle's rule is given by",
+        "qid": 2,
+        "option_a": "$$ I = \\frac{3h}{10} (Y_1 + 5Y_2 + Y_3 + 6Y_4 + Y_5 + 5Y_6 + Y_7) $$",
+        "option_b": "$$ I = \\frac{3h}{10} (Y_6 + 5Y_3 + Y_3 + 6Y_4 + Y_5 + 5Y_6 + Y_7) $$ ",
+        "option_c": "$$ I = \\frac{3h}{20} (Y_1 + 5Y_2 + Y_3 + 6Y_4 + Y_5 + 5Y_6 + Y_7) $$ ",
+        "option_d": "$$ I = \\frac{3h}{10} (Y_1 + Y_2 + Y_3 + Y_4 + Y_5 + Y_6 + Y_7) $$ ",
+        "correct_option": "a"
+    }
+  
+]

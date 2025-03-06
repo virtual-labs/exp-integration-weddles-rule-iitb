@@ -1,1 +1,1 @@
-## Experiment name
+## Integration: Weddle's Rule
